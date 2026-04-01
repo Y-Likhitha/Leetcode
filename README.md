@@ -8,6 +8,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Y-Likhitha/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Y-Likhitha/Leetcode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/Y-Likhitha/Leetcode/tree/master/0283-move-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Y-Likhitha/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## String
 |  |
@@ -21,6 +22,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Y-Likhitha/Leetcode/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/Y-Likhitha/Leetcode/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
